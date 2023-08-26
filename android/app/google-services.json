@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101386448948632",
+    "project_id": "quran-alisliman",
+    "storage_bucket": "quran-alisliman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013868948632:android:96b3499486c4101a29f4ed",
+        "android_client_info": {
+          "package_name": "com.ali.quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101386894448632-2isks3pabbu1mrmjkt2nbhuvgb2l8932.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL4kr2FozFM_tEWwnDeFacJ-3rmhSXuA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013868948632-2isks3pabbu1mrmjkt2nbhuvgb2l8932.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
